@@ -1,0 +1,14 @@
+- 👋 Hola, Pasos para crear un hello world en c++
+Paso 1: Abrir Ubuntu: Inicia tu sistema operativo y abre la terminal de Ubuntu. Puedes encontrarla en el menú de aplicaciones o usando el atajo de teclado Ctrl + Alt + T.
+Paso 2: Editor de Texto: Utiliza un editor de texto para escribir tu código C++. Puedes usar nano, Vim, Emacs o cualquier otro editor que prefieras.
+Paso 3: Escribir el codigo:
+linea 1...#include <iostream>
+Linea 2...using namespace std;
+Linea 3...int main() {
+Linea 4...cout << "Hello, World!" << endl;
+Linea 5...return 0;
+Linea 6...}
+Paso 4: Guardar y salir del editor de texto: Presiona Ctrl + O para guardar el archivo y luego Enter. Después, presiona Ctrl + X para salir del editor.
+Paso 5: Compilar el código: En la terminal, compila el código C++ usando el compilador g++. Escribe el siguiente comando y presiona Enter.
+Paso 6: Ejecutar el programa: Una vez compilado, puedes ejecutar el programa recién creado. Escribe el siguiente comando y presiona Enter.
+Paso 7: Ver la salida: Ahora verás que se imprime "Hello, World!" en la terminal.
